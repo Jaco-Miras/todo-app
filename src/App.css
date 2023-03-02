@@ -45,9 +45,10 @@
   width: 75px;
   padding: 15px 15px;
   font-size: 15px;
+  font-weight: bold;
   border-radius: 10px;
   border: 0;
-  background-color: #f1af71;
+  background-color: #228b22;
   cursor: pointer;
 }
 
